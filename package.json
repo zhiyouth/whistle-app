@@ -1,0 +1,22 @@
+{
+  "name": "th-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "use-dev": "w2 add rules/whistle.dev.js --force",
+    "use-prod": "w2 add rules/whistle.prod.js --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiyouth/whistle-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhiyouth/whistle-app/issues"
+  },
+  "homepage": "https://github.com/zhiyouth/whistle-app#readme"
+}
